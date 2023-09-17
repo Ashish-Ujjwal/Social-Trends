@@ -2,7 +2,8 @@
 ## Instagram Id: https://www.instagram.com/its_king_ashish12345/
 ### Server runs on http://localhost:5000 and client on http://localhost:3000  -->
 
-# Social-Trends | Social Media Web App
+<h1 align="center" id="title">Social-Trends | Social Media Web App</h1>
+<!-- # Social-Trends | Social Media Web App -->
 
 **_✨ A MERN Stack Clone of the social networking giant - Instagram_**
 

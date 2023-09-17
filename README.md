@@ -33,7 +33,7 @@
 - ***Discover:*** The app have a discover section that suggests new content and new registered users to the user.
 
 - ***Followers and followings:*** Users are able to follow other users and see the users they are following on their profile page. Users are also be able to see their followers and receive notifications when someone new follows them. 
-# 2. Demo
+<!-- # 2. Demo -->
 
 
 <!-- ![Screenshot (41)](https://user-images.githubusercontent.com/84794183/224631527-18933625-0bae-4d2f-b59b-1c91960e8561.png)  |  ![Screenshot (42)](https://user-images.githubusercontent.com/84794183/224631584-f1ef1555-9612-437d-b56e-b50c12040fb6.png)

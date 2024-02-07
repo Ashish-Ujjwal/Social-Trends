@@ -39,11 +39,11 @@
 
 [Screenshot (41)](https://user-images.githubusercontent.com/84794183/224631527-18933625-0bae-4d2f-b59b-1c91960e8561.png)  |  ![Screenshot (42)](https://user-images.githubusercontent.com/84794183/224631584-f1ef1555-9612-437d-b56e-b50c12040fb6.png)
 :-------------------------:|:-------------------------:
-![Screenshot (48)](https://user-images.githubusercontent.com/84794183/224631651-ece4c0da-d637-4c2c-87c9-86c218f29287.png)  |  ![Screenshot (46)](https://user-images.githubusercontent.com/84794183/224631679-0801e7a7-e071-4f0a-80e6-edda58eabac3.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/84794183/224631786-6d243698-295a-45ca-9917-e3f07b414b9b.png)  |  ![Screenshot (52)](https://user-images.githubusercontent.com/84794183/224631823-03bc0e50-5ae5-4108-9922-154fd36555c3.png)
+![Screenshot (48)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(742).png)  |  ![Screenshot (46)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(741).png)
+![Screenshot (49)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(737).png)  |  ![Screenshot (52)](https://user-images.githubusercontent.com/84794183/224631823-03bc0e50-5ae5-4108-9922-154fd36555c3.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/84794183/224631867-dd5943d3-32f1-4d4b-946f-acdbfee33911.png)  |  ![Screenshot (54)](https://user-images.githubusercontent.com/84794183/224631918-d671dc14-3882-49f1-82ab-84fb85231cbb.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/84794183/224631969-d6aadf8c-5288-4474-b88f-3f61c7adae66.png)  |  ![Screenshot (58)](https://user-images.githubusercontent.com/84794183/224632002-391ba81a-4465-46be-815a-215e30b7ee0b.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/84794183/224632046-82afc366-004e-4d71-af27-9b63aedb79a3.png)  |  ![Screenshot (64)](https://user-images.githubusercontent.com/84794183/224632074-8f8cc2b0-1324-4fbe-9efa-d76b52756a0a.png) 
+![Screenshot (61)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%202024-02-08%20010209.png)  |  ![Screenshot (64)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%202024-02-08%20010156.png)
 
 
 # 3. Deployment
@@ -103,6 +103,3 @@
    ```
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)

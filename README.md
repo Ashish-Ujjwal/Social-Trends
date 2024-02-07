@@ -37,7 +37,7 @@
 <!-- # 2. Demo -->
 
 
-[Screenshot (41)](https://user-images.githubusercontent.com/84794183/224631527-18933625-0bae-4d2f-b59b-1c91960e8561.png)  |  ![Screenshot (42)](https://user-images.githubusercontent.com/84794183/224631584-f1ef1555-9612-437d-b56e-b50c12040fb6.png)
+
 :-------------------------:|:-------------------------:
 ![Screenshot (48)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(742).png)  |  ![Screenshot (46)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(741).png)
 ![Screenshot (49)](https://github.com/Ashish-Ujjwal/Social-Trends/blob/main/Images/Screenshot%20(737).png)  |  ![Screenshot (52)](https://user-images.githubusercontent.com/84794183/224631823-03bc0e50-5ae5-4108-9922-154fd36555c3.png)
